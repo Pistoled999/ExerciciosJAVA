@@ -3,7 +3,6 @@ package exercioMatrizes.test;
 
 import java.util.Scanner;
 
-@SuppressWarnings("unused")
 public class MatrizesTest01 {
 
 	public static void main(String[] args) {
